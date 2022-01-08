@@ -1,0 +1,59 @@
+body {
+	align-items: center;
+	text-align: center;
+	background-image: url("fondRouge.png");
+
+}
+
+#center {
+	width: 1000px;
+	margin: auto;
+	background-color: #f8f9fa;
+	border-radius: 6px;
+	font-size: 18px;
+	font-family: 'Spline Sans', sans-serif;
+}
+
+#title {
+	width: 400px;
+	margin: auto;
+}
+
+#place {
+	background-color: #F0A693;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #e76f51;
+  background-image: url("fond.png"); 
+  position: fixed;
+  top: 0;
+  width: 100%;
+  left: 0;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: 'Spline Sans', sans-serif; 
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #f4a261;
+}
+
+.active {
+  background-color: #04AA6D;
+}

@@ -1,7 +1,7 @@
 body {
 	align-items: center;
 	text-align: center;
-	background-image: url("FondRouge.png");
+	background-image: url("image/FondRouge.png");
 
 }
 
@@ -29,7 +29,7 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #e76f51;
-  background-image: url("Fond.png"); 
+  background-image: url("image/Fond.png"); 
   position: fixed;
   top: 0;
   width: 100%;

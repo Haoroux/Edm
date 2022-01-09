@@ -31,7 +31,7 @@ ul {
   padding: 0;
   overflow: hidden;
   /*background-image: url("image/htBar.png");*/
-  background-color: white;
+  background-color: #f8f9fa;
   position: fixed;
   top: 0;
   width: 100%;

@@ -1,14 +1,16 @@
 body {
 	align-items: center;
 	text-align: center;
-	background-image: url("image/FondRouge.png");
+	background-image: url("image/FondBleu.png");
+  background-color: #023E8A;
 
 }
 
 #center {
 	width: 1000px;
 	margin: auto;
-	background-color: #f8f9fa;
+  background-color: white;
+	/*background-color: #90E0EF;*/
 	border-radius: 6px;
 	font-size: 18px;
 	font-family: 'Spline Sans', sans-serif;
@@ -19,17 +21,17 @@ body {
 	margin: auto;
 }
 
-#place {
-	background-color: #F0A693;
-}
+/*#place {
+	background-color: #90E0EF;
+}*/
 
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #e76f51;
-  background-image: url("image/Fond.png"); 
+  /*background-image: url("image/htBar.png");*/
+  background-color: white;
   position: fixed;
   top: 0;
   width: 100%;
@@ -51,7 +53,7 @@ li a {
 
 /* Change the link color to #111 (black) on hover */
 li a:hover {
-  background-color: #f4a261;
+  background-color: #0096C7;
 }
 
 .active {
